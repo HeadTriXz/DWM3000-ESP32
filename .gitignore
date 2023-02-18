@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+lib/
+include/
+sdkconfig.esp32doit-devkit-v1
